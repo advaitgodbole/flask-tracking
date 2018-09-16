@@ -1,0 +1,1 @@
+Follows the tutorial from https://realpython.com/python-web-applications-with-flask-part-i/
