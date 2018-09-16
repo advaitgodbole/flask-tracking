@@ -1,4 +1,5 @@
-*/pdf
+*.pdf
 .vscode/
 venv/
 *.db
+*.pyc
